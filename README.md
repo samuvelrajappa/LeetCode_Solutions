@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
