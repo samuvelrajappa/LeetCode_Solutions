@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0018-4sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
