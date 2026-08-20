@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0037-sudoku-solver](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
