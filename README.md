@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0039-combination-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0039-combination-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
