@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
