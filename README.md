@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +244,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
