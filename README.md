@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0055-jump-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0055-jump-game/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/samuvelrajappa/LeetCode_Solutions/tree/main/0055-jump-game/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
